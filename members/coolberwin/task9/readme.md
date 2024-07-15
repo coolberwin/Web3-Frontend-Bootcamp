@@ -21,6 +21,10 @@ task9 任务：为NFTMarket创建一个The Graph子图
 
 
 ### 合约信息
+
+复用之前部署的 NFTMarket 合约
+
+
 | 文件名      | Sepolia 地址 | 说明                 |
 |-------------|--------------|----------------------|
 | berNFTMarket.sol | 0xeeae464ce594ba0ed9e42f651583767bfed07894 | NFT 市场  |
